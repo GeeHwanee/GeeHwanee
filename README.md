@@ -22,7 +22,7 @@
 # 🛠️  Tools
 <div>
   <img height="30px" src="https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=IntelliJIDEA&logoColor=white">
-  <img height="30px" src="https://img.shields.io/badge/Eclipse(STS4)-#2C2255?style=flat-square&logo=EclipseIDE&logoColor=white">
+  <img height="30px" src="https://img.shields.io/badge/Eclipse-#2C2255?style=flat-square&logo=EclipseIDE&logoColor=white">
 </div>
 
 # 🪄  ETC
