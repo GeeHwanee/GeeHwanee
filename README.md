@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Rounded&reversal=true&color=timeGradient&height=200&animation=twinkling&fontSize=60&fontAlign=65&descAlign=56&descAlignY=65&text=JiHwan_Park&desc=Nice_To_Meet_You)
+![header](https://capsule-render.vercel.app/api?type=Rounded&reversal=true&color=timeGradient&height=200&animation=twinkling&fontSize=60&fontAlign=65&descAlign=56&descAlignY=66&text=JiHwan_Park&desc=Nice_To_Meet_You)
 <br/>
 
 # Skills
