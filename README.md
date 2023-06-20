@@ -4,6 +4,7 @@
 # 👋 Contact Me
 <div>
   <a href="mailto:jihwanpark15@gmail.com"><img height="50px" src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"></a>
+  <a href="https://www.instagram.com/gee_hwanee"><img height="50px" src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"></a>
 </div>
 
 # 💡  Skills
