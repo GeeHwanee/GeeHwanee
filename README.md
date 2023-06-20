@@ -4,7 +4,9 @@
 # 💡  Skills
 <div>
   <img height="30px" src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white">
+  <img height="30px" src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white">
   <img height="30px" src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white">
+  <img height="30px" src="https://img.shields.io/badge/MyBatis-000000?style=flat-square&logo=MyBatis&logoColor=white">
 </div>
 <div>
   <img height="30px" src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white">
