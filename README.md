@@ -21,6 +21,10 @@
 
 # 🛠️  Tools
 <div>
+  <img height="30px" src="https://img.shields.io/badge/Windows10-0078D6?style=flat-square&logo=Windows&logoColor=white">
+  <img height="30px" src="https://img.shields.io/badge/MacOS-000000?style=flat-square&logo=MacOS&logoColor=white">
+</div>
+<div>
   <img height="30px" src="https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=IntelliJIDEA&logoColor=white">
   <img height="30px" src="https://img.shields.io/badge/Eclipse(STS4)-2C2255?style=flat-square&logo=EclipseIDE&logoColor=white">
   <img height="30px" src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white">
