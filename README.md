@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Rounded&color=timeGradient&height=200&animation=twinkling&textBG=Hello&text=JiHwan_Park)
+![header](https://capsule-render.vercel.app/api?type=Rounded&color=timeGradient&height=200&animation=twinkling&textBG=true&text=%20hello%20JiHwan_Park)
 <br/>
 
 # Skills
