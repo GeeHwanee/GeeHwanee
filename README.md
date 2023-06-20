@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Rect&text=JiHwan_Park)
+![header](https://capsule-render.vercel.app/api?type=Rect&color=auto&text=JiHwan_Park)
 <br/>
 
 # Skills
