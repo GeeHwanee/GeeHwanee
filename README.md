@@ -14,6 +14,7 @@
 </div>
 <div>
   <img height="30px" src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white">
+  <img height="30px" src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white">
 </div>
 
 # 🛠️  Tools
