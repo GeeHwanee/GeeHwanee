@@ -1,6 +1,6 @@
     Hello, I'm JiHwan Park
 
-##Tech Stack
+## Tech Stack
 
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wlghks05)](https://solved.ac/wlghks05)
