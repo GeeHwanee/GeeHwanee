@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Rect)
+![header](https://capsule-render.vercel.app/api?type=Rect&text=JiHwan_Park)
 <br/>
     Hello, I'm JiHwan Park
 
