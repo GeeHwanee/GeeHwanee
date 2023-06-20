@@ -27,12 +27,13 @@
   <img height="30px" src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white">
 </div>
 
-# 🛠️  Tools
+# 🛠️  Development Environment
 <div>
   <img height="30px" src="https://img.shields.io/badge/Windows10-0078D6?style=flat-square&logo=Windows&logoColor=white">
   <img height="30px" src="https://img.shields.io/badge/MacOS-000000?style=flat-square&logo=Apple&logoColor=white">
   <img height="30px" src="https://img.shields.io/badge/OracleCloudInstructure-F80000?style=flat-square&logo=Oracle&logoColor=white">
 </div>
+# 🛠️  Tools
 <div>
   <img height="30px" src="https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=IntelliJIDEA&logoColor=white">
   <img height="30px" src="https://img.shields.io/badge/Eclipse(STS4)-2C2255?style=flat-square&logo=EclipseIDE&logoColor=white">
