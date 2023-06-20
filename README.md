@@ -35,7 +35,7 @@
 <div>
   <img height="30px" src="https://img.shields.io/badge/ApacheMaven-C71A36?style=flat-square&logo=ApacheMaven&logoColor=white">
   <img height="30px" src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white">
-  <img height="30px" src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white">
+  <img height="30px" src="https://img.shields.io/badge/Notion-FFFFFF?style=flat-square&logo=Notion&logoColor=black">
 </div>
 
 # 🪄  ETC
