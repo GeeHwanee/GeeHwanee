@@ -48,9 +48,8 @@
 
 
 # 🪄  ETC
-<div>
 [<img width="31%" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wlghks05" alt="Solved.ac 프로필">](https://solved.ac/profile/wlghks05)
 <img width="32%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeeHwanee&layout=compact" alt="Top Langs">
 <img width="36%" src="https://github-readme-stats.vercel.app/api?username=GeeHwanee&show_icons=true&theme=solarized-light" alt="Anurag's GitHub stats">
-</div>
+
 
