@@ -1,6 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=Rounded&reversal=true&color=timeGradient&height=200&animation=twinkling&fontSize=60&fontAlign=65&descAlign=56&descAlignY=66&text=JiHwan_Park&desc=Nice_To_Meet_You)
 <br/>
 
+# 👋 Contact Me
+<div>
+  <img height="30px" src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white">
+</div>
+
 # 💡  Skills
 <div>
   <img height="30px" src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white">
