@@ -20,6 +20,9 @@
 </div>
 
 # 🛠️  Tools
+<div>
+  <img height="30px" src="https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=IntelliJ&logoColor=white">
+</div>
 
 # 🪄  ETC
 [<img width="31%" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wlghks05" alt="Solved.ac 프로필">](https://solved.ac/wlghks05)
