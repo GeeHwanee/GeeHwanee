@@ -1,4 +1,4 @@
-    *Hello, I'm JiHwan Park
+    Hello, I'm JiHwan Park
 
 Tech Stack
 ---
