@@ -1,12 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=Rounded&reversal=true&color=timeGradient&height=200&animation=twinkling&fontSize=60&fontAlign=65&descAlign=56&descAlignY=66&text=JiHwan_Park&desc=Nice_to_Meet_You)
 <br/>
 
-# 👋 Contact Me
-<div>
-  <a target="_blank" href="mailto:jihwanpark15@gmail.com"><img height="40px" src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"></a>
-  <a target="_blank" href="https://www.instagram.com/gee_hwanee"><img height="40px" src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"</a>
-</div>
-
 # 💡  Skills
 <div>
   <img height="30px" src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white">
@@ -48,6 +42,12 @@
 
 # 📚 Project
 [NaMoHaGae](https://github.com/GeeHwanee/NaMoHaGae)
+
+# 👋 Contact Me
+<div>
+  <a target="_blank" href="mailto:jihwanpark15@gmail.com"><img height="40px" src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"></a>
+  <a target="_blank" href="https://www.instagram.com/gee_hwanee"><img height="40px" src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"</a>
+</div>
 
 # 🪄  ETC
 [<img width="31%" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wlghks05" alt="Solved.ac 프로필">](https://solved.ac/wlghks05)
