@@ -8,5 +8,6 @@
 
 [<img width="33%" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wlghks05" alt="Solved.ac 프로필">](https://solved.ac/wlghks05)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GeeHwanee&show_icons=true&theme=tokyonight)
+<img width="33%" src="https://github-readme-stats.vercel.app/api?username=GeeHwanee&show_icons=true&theme=tokyonight" alt="Anurag's GitHub stats">
+
 
