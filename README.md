@@ -23,6 +23,7 @@
 <div>
   <img height="30px" src="https://img.shields.io/badge/Windows10-0078D6?style=flat-square&logo=Windows&logoColor=white">
   <img height="30px" src="https://img.shields.io/badge/MacOS-000000?style=flat-square&logo=MacOS&logoColor=white">
+  <img height="30px" src="https://img.shields.io/badge/OracleCloudInstructure-F80000?style=flat-square&logo=Oracle&logoColor=white">
 </div>
 <div>
   <img height="30px" src="https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=IntelliJIDEA&logoColor=white">
