@@ -21,7 +21,7 @@
 
 # 🛠️  Tools
 <div>
-  <img height="30px" src="https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=IntelliJ&logoColor=white">
+  <img height="30px" src="https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=IntelliJIDEA&logoColor=white">
 </div>
 
 # 🪄  ETC
