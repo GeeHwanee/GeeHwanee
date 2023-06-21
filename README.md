@@ -23,7 +23,7 @@
 
 # 🛠️  Development Environment
 <div>
-  <img height="20px" src="https://img.shields.io/badge/Windows10-0078D6?style=flat-square&logo=Windows&logoColor=white">
+  <img height="20px" src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=white">
   <img height="20px" src="https://img.shields.io/badge/MacOS-000000?style=flat-square&logo=Apple&logoColor=white">
   <img height="20px" src="https://img.shields.io/badge/OracleCloudInstructure-F80000?style=flat-square&logo=Oracle&logoColor=white">
 </div>
