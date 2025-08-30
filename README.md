@@ -2,7 +2,7 @@
 
 # 💡 Skills
 
-## 백엔드
+## Backend
 <div>
   <img height="20px" src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white">
   <img height="20px" src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white">
@@ -10,7 +10,7 @@
   <img height="20px" src="https://img.shields.io/badge/MyBatis-000000?style=flat-square&logo=MyBatis&logoColor=white">
 </div>
 
-## 프론트엔드
+## Frontend
 <div>
   <img height="20px" src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white">
   <img height="20px" src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white">
@@ -19,12 +19,12 @@
   <img height="20px" src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white">
 </div>
 
-## 데이터베이스
+## Database
 <div>
   <img height="20px" src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white">
 </div>
 
-## 인프라
+## Infrastructure
 <div>
   <img height="20px" src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=black">
   <img height="20px" src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white">
