@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Rounded&reversal=true&color=timeGradient&height=200&animation=twinkling&fontSize=60&fontAlign=65&descAlign=56&descAlignY=66&text=JiHwan_Park&desc=Full-Stack_GIS_%26_DevOps_Engineer)
+![header](https://capsule-render.vercel.app/api?type=Rounded&amp;reversal=true&amp;color=timeGradient&amp;height=200&amp;animation=twinkling&amp;fontSize=60&amp;fontAlign=65&amp;descAlign=56&amp;descAlignY=66&amp;text=JiHwan_Park&amp;desc=Full-Stack_GIS_and_DevOps_Engineer)
 
 ## 🛠️ 기술 스택 (Tech Stack)
 
