@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Rounded&reversal=true&color=timeGradient&height=200&animation=twinkling&fontSize=60&fontAlign=65&descAlign=56&descAlignY=66&text=JiHwan_Park&desc=Full-Stack_GIS_and_DevOps_Engineer)
+![header](https://capsule-render.vercel.app/api?type=Rounded&amp;reversal=true&amp;color=timeGradient&amp;height=200&amp;animation=twinkling&amp;fontSize=60&amp;fontAlign=65&amp;descAlign=56&amp;descAlignY=66&amp;text=JiHwan_Park&amp;desc=Full-Stack_GIS_and_DevOps_Engineer)
 
 ## 🛠️ 기술 스택 (Tech Stack)
 
@@ -62,11 +62,4 @@
 # 📫 Contact
 <div>
   <a href="mailto:jihwanpark15@gmail.com"><img height="30px" src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"></a>
-  <img src="https://hits.seeyoufarm.com/api/count/keep/hash.svg?url=https%3A%2F%2Fgithub.com%2FGeeHwanee&count_bg=%23007396&title_bg=%23555555&title=Hits&edge_flat=true" alt="Hits" height="30px"/>
 </div>
-
-### 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=GeeHwanee&theme=flat)](https://github.com/ryo-ma/github-profile-trophy)
-
-### 🔥 Contribution Streak
-![Streak Stats](https://github-readme-stats.herokuapp.com/?user=GeeHwanee&theme=solarized-light)
