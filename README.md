@@ -59,11 +59,14 @@
 
 ---
 
-# 📫 Contact & Stats
+# 📫 Contact
 <div>
   <a href="mailto:jihwanpark15@gmail.com"><img height="30px" src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"></a>
+  <img src="https://hits.seeyoufarm.com/api/count/keep/hash.svg?url=https%3A%2F%2Fgithub.com%2FGeeHwanee&amp;count_bg=%23007396&amp;title_bg=%23555555&amp;title=Hits&amp;edge_flat=true" alt="Hits" height="30px"/>
 </div>
 
-[<img width="31%" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wlghks05" alt="Solved.ac 프로필">](https://solved.ac/wlghks05)
-<img width="32%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeeHwanee&layout=compact" alt="Top Langs">
-<img width="35%" src="https://github-readme-stats.vercel.app/api?username=GeeHwanee&show_icons=true&theme=solarized-light" alt="GitHub stats">
+### 🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=GeeHwanee&amp;theme=flat)](https://github.com/ryo-ma/github-profile-trophy)
+
+### 🔥 Contribution Streak
+![Streak Stats](https://github-readme-stats.herokuapp.com/?user=GeeHwanee&amp;theme=solarized-light)
