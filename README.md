@@ -15,7 +15,8 @@
 
 ### 🗺️ Frontend & Client
 <div>
-  <img height="25px" src="https://img.shields.io/badge/OpenLayers_v10-2166AC?style=flat-square&logo=OpenLayers&logoColor=white">
+  <img height="25px" src="https://img.shields.io/badge/OpenLayers-2166AC?style=flat-square&logo=OpenLayers&logoColor=white">
+  <img height="25px" src="https://img.shields.io/badge/MapLibre-2166AC?style=flat-square&logo=maplibre&logoColor=white">
   <img height="25px" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black">
   <img height="25px" src="https://img.shields.io/badge/JSP-007396?style=flat-square&logo=Java&logoColor=white">
   <img height="25px" src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=Thymeleaf&logoColor=white">
