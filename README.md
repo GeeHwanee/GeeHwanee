@@ -40,6 +40,8 @@
   <img height="25px" src="https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat-square&logo=GitLab&logoColor=white">
   <img height="25px" src="https://img.shields.io/badge/Nexus-FF6600?style=flat-square&logo=sonatype&logoColor=white">
   <img height="25px" src="https://img.shields.io/badge/Nginx_Proxy_Manager-009639?style=flat-square&logo=NGINX&logoColor=white">
+  <img height="25px" src="https://img.shields.io/badge/Tomcat-F8F9FA?style=flat-square&logo=apache-tomcat&logoColor=black">
+  <img height="25px" src="https://img.shields.io/badge/JBoss-CC0000?style=flat-square&logo=redhat&logoColor=white">
   <img height="25px" src="https://img.shields.io/badge/Oracle_Cloud-F80000?style=flat-square&logo=oracle&logoColor=white">
   <img height="25px" src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=Cloudflare&logoColor=white">
   <img height="25px" src="https://img.shields.io/badge/WireGuard-88171A?style=flat-square&logo=WireGuard&logoColor=white">
@@ -51,7 +53,7 @@
   <img height="25px" src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white">
 </div>
 
-### 🛠️ Tools & VCS
+### 🛠️ Tools
 <div>
   <img height="25px" src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=IntelliJIDEA&logoColor=white">
   <img height="25px" src="https://img.shields.io/badge/DBeaver-382923?style=flat-square&logo=DBeaver&logoColor=white">
