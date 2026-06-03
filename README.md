@@ -51,6 +51,9 @@
 ### 🛠️ 개발 도구 & 형상관리 (Tools & VCS)
 <div>
   <img height="25px" src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=IntelliJIDEA&logoColor=white">
+  <img height="25px" src="https://img.shields.io/badge/DBeaver-382923?style=flat-square&logo=DBeaver&logoColor=white">
+  <img height="25px" src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white">
+  <img height="25px" src="https://img.shields.io/badge/QGIS-589632?style=flat-square&logo=QGIS&logoColor=white">
   <img height="25px" src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=Gradle&logoColor=white">
   <img height="25px" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white">
   <img height="25px" src="https://img.shields.io/badge/Subversion-809CC9?style=flat-square&logo=subversion&logoColor=white">
