@@ -1,8 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=Rounded&amp;reversal=true&amp;color=timeGradient&amp;height=200&amp;animation=twinkling&amp;fontSize=60&amp;fontAlign=65&amp;descAlign=56&amp;descAlignY=66&amp;text=JiHwan_Park&amp;desc=Full-Stack_GIS_and_DevOps_Engineer)
 
-## 🛠️ 기술 스택 (Tech Stack)
+## 🛠️ Tech Stack
 
-### ☕ 백엔드 & GIS 서버 (Backend & GIS Engine)
+### ☕ Backend & GIS Engine
 <div>
   <img height="25px" src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white">
   <img height="25px" src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white">
@@ -13,7 +13,7 @@
   <img height="25px" src="https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=socket.io&logoColor=white">
 </div>
 
-### 🗺️ 프론트엔드 & Web GIS (Frontend & Client)
+### 🗺️ Frontend & Client
 <div>
   <img height="25px" src="https://img.shields.io/badge/OpenLayers_v10-2166AC?style=flat-square&logo=OpenLayers&logoColor=white">
   <img height="25px" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black">
@@ -23,19 +23,21 @@
   <img height="25px" src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white">
 </div>
 
-### 💾 데이터베이스 (Database & Spatial DB)
+### 💾 Database & Spatial DB
 <div>
   <img height="25px" src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white">
+  <img height="25px" src="https://img.shields.io/badge/Oracle_Spatial-F80000?style=flat-square&logo=oracle&logoColor=white">
   <img height="25px" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white">
   <img height="25px" src="https://img.shields.io/badge/PostGIS-339933?style=flat-square&logo=PostGIS&logoColor=white">
 </div>
 
-### 🐳 인프라 & DevOps (Infra & DevOps)
+### 🐳 Infra & DevOps
 <div>
   <img height="25px" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white">
   <img height="25px" src="https://img.shields.io/badge/Portainer-13BEF9?style=flat-square&logo=Portainer&logoColor=white">
   <img height="25px" src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white">
   <img height="25px" src="https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat-square&logo=GitLab&logoColor=white">
+  <img height="25px" src="https://img.shields.io/badge/Nexus-FF6600?style=flat-square&logo=sonatype&logoColor=white">
   <img height="25px" src="https://img.shields.io/badge/Nginx_Proxy_Manager-009639?style=flat-square&logo=NGINX&logoColor=white">
   <img height="25px" src="https://img.shields.io/badge/Oracle_Cloud-F80000?style=flat-square&logo=oracle&logoColor=white">
   <img height="25px" src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=Cloudflare&logoColor=white">
@@ -43,17 +45,18 @@
   <img height="25px" src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=black">
 </div>
 
-### 📱 모바일 (Mobile)
+### 📱 Mobile
 <div>
   <img height="25px" src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white">
 </div>
 
-### 🛠️ 개발 도구 & 형상관리 (Tools & VCS)
+### 🛠️ Tools & VCS
 <div>
   <img height="25px" src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=IntelliJIDEA&logoColor=white">
   <img height="25px" src="https://img.shields.io/badge/DBeaver-382923?style=flat-square&logo=DBeaver&logoColor=white">
   <img height="25px" src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white">
   <img height="25px" src="https://img.shields.io/badge/QGIS-589632?style=flat-square&logo=QGIS&logoColor=white">
+  <img height="25px" src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=Apache-Maven&logoColor=white">
   <img height="25px" src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=Gradle&logoColor=white">
   <img height="25px" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white">
   <img height="25px" src="https://img.shields.io/badge/Subversion-809CC9?style=flat-square&logo=subversion&logoColor=white">
